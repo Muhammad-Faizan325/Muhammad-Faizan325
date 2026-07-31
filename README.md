@@ -1,21 +1,133 @@
+<h1 align="center">Hi 👋, I'm Muhammad Faizan Mughal</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammad_faizan325) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-faizan-mughal-559286360) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mooninfotech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizantechm@gmail.com) 
+<h3 align="center">
+Full Stack Developer • React • Flutter • PHP • UI/UX Designer
+</h3>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Faizan325&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Faizan325&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Faizan325&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+Building modern web & mobile applications with clean UI, scalable architecture, and exceptional user experiences.
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Faizan325&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/Muhammad-Faizan325">
+    <img src="https://komarev.com/ghpvc/?username=Muhammad-Faizan325&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Muhammad-Faizan325&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 Full Stack Web & Mobile Developer
+- ⚛️ Specialized in React, Flutter & PHP
+- 🎨 Passionate about UI/UX Design
+- 🌱 Always learning new technologies
+- 🚀 Building scalable and high-performance applications
+- 🎯 Focused on Clean Code & Great User Experience
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/muhammad_faizan325" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="https://linkedin.com/in/muhammad-faizan-mughal-559286360" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://youtube.com/@mooninfotech" target="_blank">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="45"/>
+</a>
+
+<a href="mailto:faizantechm@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,flutter,figma" />
+</p>
+
+### Backend & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,firebase,gcp,vercel,netlify,wordpress" />
+</p>
+
+### Design & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=photoshop,canva" />
+<img src="https://cdn.simpleicons.org/threedotjs/FFFFFF" height="48"/>
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Faizan325&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Faizan325&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Muhammad-Faizan325&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Top Contributed Repositories
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Muhammad-Faizan325&limit=5&theme=nightowl&combine_all_yearly_contributions=true"/>
+
+</p>
+
+---
+
+# 💭 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Faizan325&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Faizan325&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+*"Code. Create. Innovate."*
+
+</div>
