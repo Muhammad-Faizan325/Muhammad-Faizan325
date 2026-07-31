@@ -1,31 +1,34 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan Mughal</h1>
 
 <h3 align="center">
-Full Stack Developer • React Developer • Flutter Developer • UI/UX Designer
+Full Stack Developer | React | Flutter | PHP | UI/UX Designer
 </h3>
 
 <p align="center">
-Building modern, scalable web & mobile applications with exceptional user experiences.
+Building beautiful, scalable Web & Mobile Applications.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Flutter+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Flutter+Developer;PHP+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Faizan325&label=Profile+Views&color=0e75b6&style=flat" />
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Faizan325&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-- 💻 Full Stack Web & Mobile Developer
-- ⚛️ Specialized in React, Flutter & PHP
-- 🎨 Passionate about UI/UX Design
-- ☁️ Experienced with Firebase, Google Cloud & Modern Hosting
-- 🚀 Love building scalable, high-performance applications
-- 🌱 Always learning new technologies
+- 💻 Full Stack Developer
+- ⚛️ React & Flutter Developer
+- 🔥 PHP Backend Developer
+- 🎨 UI/UX Designer
+- ☁ Firebase & Google Cloud
+- 🚀 Passionate about Clean Code
+- 🌱 Currently learning new technologies every day
 
 ---
 
@@ -34,19 +37,19 @@ Building modern, scalable web & mobile applications with exceptional user experi
 <p align="left">
 
 <a href="https://instagram.com/muhammad_faizan325">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="https://linkedin.com/in/muhammad-faizan-mughal-559286360">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://youtube.com/@mooninfotech">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" height="45"/>
+<img src="https://skillicons.dev/icons?i=youtube" />
 </a>
 
 <a href="mailto:faizantechm@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
@@ -65,7 +68,7 @@ Building modern, scalable web & mobile applications with exceptional user experi
 
 ---
 
-## ⚙️ Backend & Cloud
+## ⚙ Backend & Cloud
 
 <p>
 
@@ -81,11 +84,11 @@ Building modern, scalable web & mobile applications with exceptional user experi
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop"/>
 
-<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="48"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="48"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
 
-<img src="https://cdn.simpleicons.org/threedotjs/FFFFFF" height="48"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
 
 </p>
 
@@ -95,7 +98,7 @@ Building modern, scalable web & mobile applications with exceptional user experi
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Faizan325&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Faizan325&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Faizan325&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -109,11 +112,27 @@ Building modern, scalable web & mobile applications with exceptional user experi
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 GitHub Summary
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Faizan325&theme=algolia&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Faizan325&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Faizan325&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Faizan325&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Faizan325&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Faizan325&theme=github_dark&utcOffset=5"/>
 
 </p>
 
@@ -129,17 +148,7 @@ Building modern, scalable web & mobile applications with exceptional user experi
 
 ---
 
-# 🔥 Top Contributed Repository
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Muhammad-Faizan325&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</p>
-
----
-
-# 💭 Random Developer Quote
+# 💭 Random Dev Quote
 
 <p align="center">
 
@@ -149,21 +158,11 @@ Building modern, scalable web & mobile applications with exceptional user experi
 
 ---
 
-# 📫 Visitor Counter
-
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=Muhammad-Faizan325&icon=5&color=6"/>
-
-</p>
-
----
-
 <div align="center">
 
-## 🚀 Thanks for visiting my profile!
+## 🚀 Thanks for visiting my profile
 
-### *Code • Create • Innovate*
+### Code • Create • Innovate
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:238636&height=120&section=footer"/>
 
